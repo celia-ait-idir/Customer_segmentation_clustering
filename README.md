@@ -19,3 +19,6 @@ The goal is to better understand customer behavior and put marketing strategies 
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scikit-learn  
+
+## link to the colab file :
+[Colab File](https://colab.research.google.com/drive/1ReqdSyQJztUoIyG7qh3zbPmBKxhjkAPE?usp=sharing)
